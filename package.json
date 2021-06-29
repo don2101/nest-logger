@@ -1,6 +1,6 @@
 {
   "name": "requested-uuid-logger-for-nest",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Request based logger for nest.js",
   "author": "don210198@gmail.com",
   "license": "MIT",
