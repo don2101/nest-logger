@@ -4,6 +4,7 @@ import { LogService } from './log.service';
 @Module({
   imports: [],
   controllers: [],
+  providers: [],
   exports: [LogService],
 })
-export class AppModule {}
+export class LogModule {}
