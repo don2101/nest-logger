@@ -4,6 +4,12 @@
 - This logger use uuid to separte request
 - Every request is separated by uuid made by this logger
 
+### install
+```bash
+npm install requested-uuid-logger-for-nest
+yarn add requested-uuid-logger-for-nest
+```
+
 ### example
 > provided by module
 ```typescript
