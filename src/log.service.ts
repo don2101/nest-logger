@@ -7,5 +7,9 @@ export class LogService extends Logger {
         super();
         this.setContext(v4());
     }
+
+    info(message: string, context?: string) {
+        this.log(message, context);
+    }
 }
 
