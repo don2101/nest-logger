@@ -6,6 +6,6 @@ import { LogProvider } from './log.provider';
   imports: [],
   controllers: [],
   providers: [ LogService, LogProvider ],
-  exports: [LogService],
+  exports: [LogService, LogProvider ],
 })
 export class LogModule {}
